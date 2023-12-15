@@ -1,3 +1,4 @@
+https://github.com/uxsolutions/bootstrap-datepicker/blob/master/docs/index.rst
 
 <!DOCTYPE html>
 
